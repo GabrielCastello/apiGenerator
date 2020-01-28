@@ -1,0 +1,19 @@
+{
+  "name": "@g4br13l/express-api-generator",
+  "version": "0.1.0",
+  "description": "CLI application designed to generate api's skeleton based on Express.js with Jest, BasicAuth, Docker and Swagger.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCastello/apiGenerator.git"
+  },
+  "author": "Gabriel Castello",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/GabrielCastello/apiGenerator/issues"
+  },
+  "homepage": "https://github.com/GabrielCastello/apiGenerator#readme"
+}
